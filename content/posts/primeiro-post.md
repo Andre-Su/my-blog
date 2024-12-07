@@ -1,9 +1,14 @@
 +++
-date = '2024-12-06T17:03:44-03:00'
 draft = false
+date = '2024-12-06T17:03:44-03:00'
 title = 'Bem vindo ao meu blog'
-authors = ['andre-su']
 description = "Post de inalguração do blog"
+slug = ""
+authors = ['andre-su']
+tags = ["blog"]
+categories = []
+externalLink = ""
+series = []
 +++
 
 ## Primeiro post
