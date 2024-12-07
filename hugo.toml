@@ -127,7 +127,7 @@ url = "https://github.com/andre-su/"
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/andre-augusto-jar/"
 
 # [[params.social]]
 # name = "Medium"
@@ -139,7 +139,7 @@ url = "https://www.linkedin.com/in/johndoe/"
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "https://blog.andre-su.com.br/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
@@ -148,18 +148,23 @@ languageName = ":uk:"
 dateFormat = "January 2, 2006"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Home"
 weight = 1
+url = "/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
 url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
-weight = 2
+weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
-weight = 3
+weight = 4
 url = "projects/"
 
 [[languages.en.menu.main]]
@@ -178,18 +183,23 @@ description = "Site pessoal de André"
 keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "Início"
 weight = 1
+url = "/"
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 2
 url = "about/"
 
 [[languages.pt-br.menu.main]]
 name = "Blog"
-weight = 2
+weight = 3
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
 name = "Projetos"
-weight = 3
+weight = 4
 url = "projects/"
 
 [[languages.pt-br.menu.main]]
