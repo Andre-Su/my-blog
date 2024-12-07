@@ -145,6 +145,7 @@ type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
+dateFormat = "January 2, 2006"
 
 [[languages.en.menu.main]]
 name = "About"
