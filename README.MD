@@ -1,6 +1,7 @@
 # my-blog
 
-Code for my personal blog at [blog.andre-su.com.br](https://blog.andre-su.com.br/)
+Code for my personal blog at [blog.andre-su.com.br](https://blog.andre-su.com.br/) 
+  - alt link [here](https://blog-andre-su.pages.dev/)
 
 This page was made with [hugo](https://gohugo.io/) using the [hugo-coder](https://github.com/luizdepra/hugo-coder/) theme.
 
