@@ -1,0 +1,61 @@
+.navigation {
+    background-color: #b8b8b8;
+}
+.footer {
+    padding: 40px 0 15px 0;
+    margin-bottom: 0;
+    background-color: #e4e4e4;
+    box-shadow: 0px 0px 10px #e4e4e4c4;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.colorscheme-dark .navigation {
+    background-color: #1b1b1b;
+}
+.colorscheme-dark .footer {
+    padding: 40px 0 15px 0;
+    margin-bottom: 0;
+    background-color: #3b3b3b;
+    box-shadow: 0px 0px 10px #494949c4;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+pre.chroma {
+    background-color: #ececec;
+}
+
+img {
+    border-radius: 10px;
+}
+a {
+    padding: 0 .5px;
+    border-radius: 3px;
+}
+.footer .container a, .external-link {
+    border-radius: 3px;
+    color: #0b7bd6;
+}
+a:hover {
+    text-decoration: none;
+    transition-duration: 300ms;
+    color: #000f3a;
+}
+.footer .container a:hover, .external-link:hover {
+    text-decoration:  none;
+    color: #002a9e;
+    background-color: #eeeeee;
+}
+
+body.colorscheme-dark a:hover {
+    color: #d2deff;
+}
+.colorscheme-dark .footer .container a, .colorscheme-dark .external-link {
+    padding: 0 .5px;
+    border-radius: 3px;
+    color: #fce300;
+}
+.colorscheme-dark .footer .container a:hover, .colorscheme-dark .external-link:hover {
+    color: #ffae00;
+    background-color: #141822;
+}
