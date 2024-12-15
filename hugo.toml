@@ -90,7 +90,7 @@ author = "André Augusto"
 info = ["Desenvolvedor Android e front-end"]
 description = "Site pessoal de André"
 keywords = "blog,desenvolvedor,pessoal"
-dateFormat = "8 de January , 2006"
+dateFormat = "2 de January, 2006"
 
 [[languages.pt-br.menu.main]]
 name = "Início"
