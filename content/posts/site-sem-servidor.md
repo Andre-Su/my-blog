@@ -1,8 +1,8 @@
 +++ 
-draft = true
+draft = false
 date = 2024-12-08T20:26:44-03:00
-title = "Criando um site com Hugo e Github/Cloudflare Pages"
-description = "Como criar um site \"serverless\" com Hugo e Cloudflare/Github Pages"
+title = "Criando um site com Hugo e Github Pages"
+description = "Como criar um site com Hugo e Github Pages"
 slug = ""
 authors = ["andre-su"]
 tags = ["tutoriais", "projetos", "blog"]
