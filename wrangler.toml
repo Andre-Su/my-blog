@@ -1,0 +1,12 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "blog-worker"
+compatibility_date = "2024-12-05"
+assets = { directory = "./public", not_found_handling = "404-page" }
+# main = "src/index.js"
+# route = "blog.andre-su.com.br"
+
+# Workers Logs
+# Docs: https://developers.cloudflare.com/workers/observability/logs/workers-logs/
+# Configuration: https://developers.cloudflare.com/workers/observability/logs/workers-logs/#enable-workers-logs
+[observability]
+enabled = true

@@ -117,6 +117,34 @@ name = "Contato"
 weight = 5
 url = "contact/"
 
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/andre-su/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/andre-augusto-jar/"
+
+[[params.social]]
+name = "RSS"
+icon = "fa-solid fa-rss fa-2x"
+weight = 6
+url = "/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
+
+# Non used parameters
+
 # If you want to use plausible(https://plausible.io) for analytics, add this section
 # [params.plausibleAnalytics]
 # domain = "example.com"
@@ -165,18 +193,6 @@ url = "contact/"
 # # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 # connectsrc = ["'self'", "https://www.google-analytics.com"]
 
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
-author = "authors"
-
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/andre-su/"
-
 # [[params.social]]
 # name = "Gitlab"
 # icon = "fa-brands fa-gitlab fa-2x"
@@ -189,22 +205,8 @@ url = "https://github.com/andre-su/"
 # weight = 3
 # url = "https://twitter.com/johndoe/"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
-url = "https://www.linkedin.com/in/andre-augusto-jar/"
-
 # [[params.social]]
 # name = "Medium"
 # icon = "fa-brands fa-medium fa-2x"
 # weight = 5
 # url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa-solid fa-rss fa-2x"
-weight = 6
-url = "/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
