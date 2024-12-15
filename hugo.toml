@@ -1,4 +1,4 @@
-baseURL = 'https://blog.andre-su.com.br/'
+baseURL = 'https://andre-su.com.br/'
 languageCode = 'en'
 defaultContentLanguage = "pt-br"
 enableEmoji = true
@@ -6,7 +6,7 @@ title = 'andre-su'
 theme = "hugo-coder"
 
 [pagination]
-pagerSize = 6
+pagerSize = 5
 
 [services]
 [services.disqus]
