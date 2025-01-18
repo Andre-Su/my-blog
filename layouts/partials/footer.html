@@ -11,10 +11,12 @@
     ·
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
-    ·
     {{ end }}
     <!-- meu Github-->
-      <a href="https://github.com/Andre-Su">GitHub</a>
+     <br>
+      <a href="https://github.com/Andre-Su">My projects on GitHub</a>
+      ·
+      <a href="https://github.com/Andre-Su/my-blog">Source Code</a>
     <!-- Powered by HUGO and hugo-coder Theme-->
     <!-- {{ i18n "powered_by" }} <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>. -->
     {{ if (and .Site.Params.commit .GitInfo) }}
