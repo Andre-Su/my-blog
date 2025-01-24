@@ -1,8 +1,19 @@
-# Copyright Andre Augusto 2025
++++
+date = '2025-01-24T17:56:06-03:00'
+draft = false
+title = 'LICENSES'
++++
 
-Content licenced under **CC BY-SA 4.0**
+## Content used on andre-su.com.br
 
-## Attribution-ShareAlike 4.0 International
+**©André Augusto - 2025**
+The content posted on this website is licensed under **CC BY-SA 4.0** as stated bellow.
+[Source code](https://github.com/Andre-Su/my-blog)
+
+Uses of other software are stated after.
+
+``` markdown
+# Attribution-ShareAlike 4.0 International
 
 =======================================================================
 
@@ -420,3 +431,32 @@ the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+```
+
+### Hugo-Coder
+
+Copyright Luiz F. A. de Prá - 2018
+Hugo-coder is licenced by the MIT License
+
+``` markdown
+# The MIT License (MIT)
+
+Copyright (c) 2018 Luiz F. A. de Prá
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
