@@ -19,7 +19,7 @@ noClasses = false
 [params]
 author = "André Augusto"
 nameauthor = "Andre-Su"
-license = '<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
+license = '<a rel="license" href="/en/licenses">CC BY-NC 4.0</a>'
 description = "André's personal website"
 keywords = "blog,developer,personal"
 info = ["Front-end and Android dev"]
@@ -91,6 +91,7 @@ info = ["Desenvolvedor Android e front-end"]
 description = "Site pessoal de André"
 keywords = "blog,desenvolvedor,pessoal"
 dateFormat = "2 de January, 2006"
+license = '<a rel="license" href="/licencas">CC BY-NC 4.0</a>'
 
 [[languages.pt-br.menu.main]]
 name = "Início"
