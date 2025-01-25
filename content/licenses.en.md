@@ -9,7 +9,7 @@ slug = "licenses"
 
 **©André Augusto - 2025**
 This work (content in this site) is licensed under **Creative Commons Attribution-NonCommercial 4.0 International**
-[`Website Sourcecode`](https://github.com/Andre-Su/my-blog/blob/main/LICENCE.md)
+[`Website Sourcecode`](https://github.com/Andre-Su/my-blog/blob/main/LICENCE)
 
 ## **[CC-BY-NC-4.0](https://spdx.org/licenses/CC-BY-NC-4.0.html)**
 
