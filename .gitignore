@@ -1,3 +1,7 @@
+# Local folder for temporary storage
+
+.storage
+
 # Public directory built with 'hugo' command
 
 public
