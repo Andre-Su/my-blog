@@ -52,7 +52,7 @@ To set up continuous deployment, you can use the provided GitHub Actions workflo
 
 The workflow file is located at `/.github/workflows/cf-workers.yml` or `/.github/workflows/hugo.yml` and will automatically build and deploy your site whenever changes are pushed to the repository.
 
-<!-- ## Licence
+## Licence
 
 All content posted on the website is licenced with CC BY-NC 4.0
-[See this](https://github.com/Andre-Su/my-blog/blob/main/LICENCE.md) for more information -->
+[See this](https://github.com/Andre-Su/my-blog/blob/main/LICENCE).
