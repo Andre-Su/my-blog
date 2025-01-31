@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   version="1.0"
-   width="512.000000pt"
-   height="512.000000pt"
-   viewBox="0 0 512.000000 512.000000"
-   preserveAspectRatio="xMidYMid meet"
-   id="svg2"
-   sodipodi:docname="favicon.svg"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="favicon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs2" />
   <sodipodi:namedview
-     id="namedview2"
+     id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,32 +25,28 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="pt"
-     inkscape:zoom="0.80566406"
-     inkscape:cx="340.71273"
-     inkscape:cy="341.33333"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#101323ff"
+     inkscape:zoom="7.8395062"
+     inkscape:cx="15.817323"
+     inkscape:cy="21.812598"
      inkscape:window-width="1366"
      inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <circle
-     style="fill:#d5b9ff;fill-opacity:1;stroke-width:0.75"
-     id="path3"
-     cx="252.27635"
-     cy="252.27635"
-     r="186.18182" />
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
   <g
-     transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-     fill="#000000"
-     stroke="none"
-     id="g2">
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
     <path
-       d="M2320 5109 c-498 -49 -980 -245 -1365 -556 -130 -105 -340 -321 -436 -448 -267 -357 -435 -768 -501 -1230 -17 -118 -17 -512 0 -630 69 -487 257 -928 549 -1290 104 -129 321 -340 445 -433 365 -274 783 -444 1238 -504 123 -16 497 -16 620 0 282 37 550 117 794 235 272 132 462 265 675 472 232 226 374 421 517 710 126 255 203 510 246 810 16 116 16 501 0 625 -63 477 -256 932 -549 1295 -105 130 -321 340 -448 436 -356 267 -785 442 -1225 499 -117 15 -444 21 -560 9z m550 -1223 c230 -48 403 -145 516 -289 67 -86 103 -155 137 -263 55 -174 57 -215 57 -1161 l0 -869 -177 -27 c-222 -34 -406 -54 -638 -68 -511 -31 -873 73 -1056 303 -56 71 -123 215 -145 313 -25 109 -25 333 -1 425 24 89 86 213 141 282 219 273 767 404 1261 302 39 -8 79 -17 89 -20 15 -5 18 -3 12 12 -5 11 -14 69 -21 129 -16 137 -29 184 -67 258 -59 110 -174 185 -318 208 -164 25 -500 -9 -695 -71 -53 -17 -98 -30 -100 -28 -7 7 -66 441 -61 453 12 33 313 104 521 125 130 13 455 4 545 -14z"
-       id="path1" />
-    <path
-       d="M2456 2395 c-156 -26 -276 -97 -331 -196 -27 -49 -30 -63 -30 -149 0 -162 48 -251 168 -310 110 -54 184 -64 437 -62 124 2 252 6 285 10 l60 7 0 340 0 339 -60 13 c-92 21 -421 25 -529 8z"
-       id="path2" />
+       style="fill:#cacde7;fill-opacity:1;fill-rule:nonzero;stroke:#cacde7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5314452,9.2340026 2.0326071,10.164731 7.1348886,9.880049 7.6599154,8.8061309 2.7366203,9.2638336 7.9708612,4.1927276 10.424435,11.569657 11.259705,10.280955 8.8299958,3.4051874 11.31194,1.0187021 9.6175361,1.0664317 Z"
+       id="path6"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:label="foreground" />
   </g>
 </svg>
