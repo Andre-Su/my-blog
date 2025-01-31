@@ -36,6 +36,9 @@ other = "Licenciado sob"
 [powered_by]
 other = "Promovido por"
 
+[source_code]
+other = "Código fonte"
+
 [see_also]
 other = "Veja também em"
 
