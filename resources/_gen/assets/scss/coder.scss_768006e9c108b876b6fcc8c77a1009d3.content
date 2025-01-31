@@ -10416,7 +10416,7 @@ html {
 
 body {
   color: #1b1622;
-  background-color: #e8e4ee;
+  background-color: #e6e4ee;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1.8em;
   font-weight: 400;
@@ -10430,7 +10430,7 @@ iframe[src*=disqus] {
 
 a {
   font-weight: 500;
-  color: #6a15d8;
+  color: #3f15d8;
   text-decoration: none;
   transition: all 0.25s ease-in; }
   a:focus, a:hover {
@@ -10469,7 +10469,7 @@ h6 {
   h4 .heading-link,
   h5 .heading-link,
   h6 .heading-link {
-    color: #6a15d8;
+    color: #3f15d8;
     font-weight: inherit;
     text-decoration: none;
     font-size: 80%;
@@ -10558,13 +10558,13 @@ code {
   font-weight: 400;
   border-radius: 0.6rem;
   padding: 0.3rem 0.6rem;
-  background-color: #c4b4d6;
+  background-color: #bbb4d6;
   color: #1b1622; }
   @media only screen and (max-width: 768px) {
     code {
       font-size: 1.5rem; } }
 blockquote {
-  border-left: 2px solid #d1cdd6;
+  border-left: 2px solid #cfcdd6;
   padding-left: 2rem;
   line-height: 2.2rem;
   font-weight: 400;
@@ -10693,7 +10693,7 @@ figure {
   .content .post .post-meta .tags .tag {
     display: inline-block;
     padding: 0.3rem 0.6rem;
-    background-color: #d1cdd6;
+    background-color: #cfcdd6;
     border-radius: 0.6rem;
     line-height: 1.5em; }
     .content .post .post-meta .tags .tag a {
@@ -10742,7 +10742,7 @@ figure {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #6a15d8; }
+        color: #3f15d8; }
 
 @media only screen and (min-width: 768.1px) {
   .list ul:not(.pagination) li {
@@ -10779,7 +10779,7 @@ figure {
           margin-right: 1rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #6a15d8; }
+            color: #3f15d8; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.5rem; } }
@@ -10810,7 +10810,7 @@ figure {
     font-weight: 700;
     margin: 0 -0.75rem;
     padding: 0.2rem 3.5rem;
-    border-bottom: 1px solid #e8e4ee; }
+    border-bottom: 1px solid #e6e4ee; }
     .notice .notice-title i {
       position: absolute;
       top: 50%;
@@ -10873,7 +10873,7 @@ figure {
 .navigation {
   height: 6rem;
   width: 100%;
-  background-color: #c4b4d6; }
+  background-color: #bbb4d6; }
   .navigation a,
   .navigation span {
     display: inline;
@@ -10884,7 +10884,7 @@ figure {
   .navigation a {
     text-decoration: none; }
     .navigation a:hover, .navigation a:focus {
-      color: #6a15d8; }
+      color: #3f15d8; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -10904,18 +10904,18 @@ figure {
         padding: 0;
         max-height: 0;
         width: 100%;
-        background-color: #e8e4ee;
-        border-top: solid 2px #d1cdd6;
-        border-bottom: solid 2px #d1cdd6;
+        background-color: #e6e4ee;
+        border-top: solid 2px #cfcdd6;
+        border-bottom: solid 2px #cfcdd6;
         transition: opacity 0.25s, max-height 0.15s linear; } }
     .navigation .navigation-list .navigation-item {
       float: left;
       margin: 0;
       position: relative;
-      background-color: #ded5e8;
+      background-color: #d9d5e8;
       border-radius: 2vw; }
       .navigation .navigation-list .navigation-item:hover {
-        background-color: #d1c4df;
+        background-color: #cac4df;
         border-radius: 2vw; }
       @media only screen and (max-width: 768px) {
         .navigation .navigation-list .navigation-item {
@@ -10953,7 +10953,7 @@ figure {
         position: relative;
         visibility: hidden; }
         .navigation #menu-toggle:checked + label > i {
-          color: #d1cdd6; }
+          color: #cfcdd6; }
         .navigation #menu-toggle:checked + label + ul {
           visibility: visible;
           opacity: 1;
@@ -10974,7 +10974,7 @@ figure {
     color: #1b1622;
     cursor: pointer; }
     .navigation i:hover, .navigation i:focus {
-      color: #6a15d8; }
+      color: #3f15d8; }
 
 .pagination {
   display: flex;
@@ -11013,8 +11013,8 @@ figure {
   .tabs input.tab-input {
     display: none; }
   .tabs label.tab-label {
-    background-color: #d1cdd6;
-    border-color: #c4b4d6;
+    background-color: #cfcdd6;
+    border-color: #bbb4d6;
     border-radius: 4px 4px 0px 0px;
     border-style: solid;
     border-bottom-style: hidden;
@@ -11027,10 +11027,10 @@ figure {
     top: 1px;
     user-select: none; }
   .tabs input.tab-input:checked + label.tab-label {
-    background-color: #e8e4ee; }
+    background-color: #e6e4ee; }
   .tabs .tab-content {
-    background-color: #e8e4ee;
-    border-color: #c4b4d6;
+    background-color: #e6e4ee;
+    border-color: #bbb4d6;
     border-style: solid;
     border-width: 1px;
     display: none;
@@ -11049,7 +11049,7 @@ figure {
 .taxonomy .taxonomy-element {
   display: block;
   padding: 0.3rem 0.9rem;
-  background-color: #d1cdd6;
+  background-color: #cfcdd6;
   border-radius: 0.6rem; }
   .taxonomy .taxonomy-element a {
     color: #1b1622; }
@@ -11064,12 +11064,12 @@ figure {
   padding: 4rem 2rem;
   margin: 1rem 0;
   border-radius: 2vw;
-  background-color: #c4b4d6; }
+  background-color: #bbb4d6; }
   @media only screen and (max-width: 768px) {
     .footer {
       font-size: 1.5rem; } }
   .footer a {
-    color: #6a15d8; }
+    color: #3f15d8; }
 
 .float-container {
   bottom: 2rem;
@@ -11084,12 +11084,12 @@ figure {
     height: 3rem;
     font-size: 2rem;
     color: #19013f;
-    background-color: #d1cdd6;
+    background-color: #cfcdd6;
     border-radius: 0.2rem;
     opacity: 0.5;
     transition: all 0.25s ease-in; }
     .float-container a:hover, .float-container a:focus {
-      color: #6a15d8;
+      color: #3f15d8;
       opacity: 1; }
       @media only screen and (max-width: 768px) {
         .float-container a:hover, .float-container a:focus {
