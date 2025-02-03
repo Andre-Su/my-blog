@@ -25,7 +25,7 @@ This website was built using Hugo. Oficcial instructions at <https://gohugo.io/g
 ### Requirements
 
 - [Install Git](https://git-scm.com/downloads) (if you haven't)
-- Clone the repository
+- Clone the repository (with sumodules)
 - [Install Hugo](https://gohugo.io/installation/) (Following system especific instructions. On windows, use PowerShell.)
 
 ### Building
