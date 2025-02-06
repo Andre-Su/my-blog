@@ -2,6 +2,9 @@
 
 .storage
 
+# vscode files
+/my-blog.code-workspace
+
 # Hugo
 # Generated files by hugo
 /public/
