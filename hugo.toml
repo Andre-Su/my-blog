@@ -47,7 +47,7 @@ maxSeeAlsoItems = 5
 customSCSS = []
 
 # Custom JS
-customJS = []
+customJS = ["/js/register-sw.js"]
 
 # Custom remote JS files
 customRemoteJS = []
