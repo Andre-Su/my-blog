@@ -3,12 +3,12 @@
   "short_name": "andre-su",
   "icons": [
     {
-      "src": "/favicon/android-chrome-192x192.png",
+      "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/favicon/android-chrome-512x512.png",
+      "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
@@ -29,29 +29,27 @@
   "background_color": "#221c2b",
   "display": "standalone",
   "start_url": "/",
-  "id": "/",
   "dir": "auto",
   "orientation": "any",
-  "scope": "https://andre-su.com.br",
-  "shortcuts": [
-    {
-      "name": "Blog",
-      "url": "/posts",
-      "description": "Artigos"
-    },
-    {
-      "name": "Sobre",
-      "url": "/about",
-      "description": "Sobre mim"
-    }
-  ],
+  "scope": "/",
   "categories": [
     "education",
     "blog",
     "portfolio"
   ],
+  "screenshots":[
+    "/images/screenshots/screenshot_1181x693.png",
+    "/images/screenshots/screenshot_1440x3202.png",
+    "/images/screenshots/screenshot_2160x1440.png",
+    "/images/screenshots/screenshot_2620x2160.png"
+  ],
   "description": "Página pessoal de andre-su.",
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
-}
+  },
+  "serviceworker": {
+    "src": "/js/worker.js",
+    "scope": "/",
+    "type": "module"
+  }
 }
