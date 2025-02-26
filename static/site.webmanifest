@@ -3,6 +3,18 @@
   "short_name": "andre-su",
   "icons": [
     {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/favicon/maskable_icon_x512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "monochrome",
+      "sizes": "1024x1024",
+      "src": "/favicon/monochrome_1024x1024.svg",
+      "type": "image/svg"
+    },
+    {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
@@ -25,23 +37,40 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#463a7f",
-  "background_color": "#221c2b",
+  "language":"pt-BR",
+  "theme_color": "#1b1622",
+  "background_color": "#e6e4ee",
   "display": "standalone",
   "start_url": "/",
-  "dir": "auto",
-  "orientation": "any",
   "scope": "/",
+  "id":"br.com.andre-su.blog-pwa",
+  "dir": "ltr",
+  "orientation": "natural",
   "categories": [
     "education",
     "blog",
-    "portfolio"
+    "portfolio",
+    "sharing"
   ],
-  "screenshots":[
-    "/images/screenshots/screenshot_1181x693.png",
-    "/images/screenshots/screenshot_1440x3202.png",
-    "/images/screenshots/screenshot_2160x1440.png",
-    "/images/screenshots/screenshot_2620x2160.png"
+  "screenshots": [
+    {
+      "src": "/images/screenshots/screenshot_1440x3202.png",
+      "sizes": "1440x3202",
+      "type": "image/png",
+      "platform": "narrow"
+    },
+    {
+      "src": "/images/screenshots/screenshot_2160x1440.png",
+      "sizes": "2160x1440",
+      "type": "image/png",
+      "platform": "wide"
+    },
+    {
+      "src": "/images/screenshots/screenshot_2620x2160.png",
+      "sizes": "2620x2160",
+      "type": "image/png",
+      "platform": ""
+    }
   ],
   "description": "Página pessoal de andre-su.",
   "launch_handler": {
