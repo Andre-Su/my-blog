@@ -37,7 +37,7 @@
       "type": "image/png"
     }
   ],
-  "language":"pt-BR",
+  "lang":"pt-BR",
   "theme_color": "#1b1622",
   "background_color": "#e6e4ee",
   "display": "standalone",
