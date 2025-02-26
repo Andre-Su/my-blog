@@ -46,6 +46,7 @@
   "id":"br.com.andre-su.blog-pwa",
   "dir": "ltr",
   "orientation": "natural",
+  "handle_links": "preferred",
   "categories": [
     "education",
     "blog",
