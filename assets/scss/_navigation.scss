@@ -82,8 +82,8 @@
 
       a,
       span {
-        margin-left: 1rem;
-        margin-right: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
       }
     }
 
@@ -106,7 +106,7 @@
   }
 
   #dark-mode-toggle {
-    margin: 1.7rem 0;
+    padding: 1.7rem 0;
     font-size: 2.4rem;
     line-height: inherit;
     bottom: 2rem;
