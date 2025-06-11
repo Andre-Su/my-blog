@@ -32,6 +32,7 @@ info = ["Front-end and Android dev"]
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it
+commit = "https://github.com/Andre-Su/my-blog/commit"
 # commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic
 rtl = false

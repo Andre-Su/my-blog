@@ -48,7 +48,10 @@ jobs:
           hugo --minify
       - name: Setup Wrangler
         run: npm install -g wrangler
+
+      - name: Check Wrangler Version
+        run: wrangler --version
       - name: Publish to Cloudflare Workers
         env:
           CF_API_TOKEN: ${{ secrets.CFW_API_TOKEN }}
-        run: wrangler publish
+        run: wrangler publish --verbose
